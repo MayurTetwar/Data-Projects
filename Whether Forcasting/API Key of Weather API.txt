@@ -1,0 +1,2 @@
+API Key of Weather API :- 72c8973c2fb341f49a9171838251311
+LINK :- http://api.weatherapi.com/v1/forecast.json?key=72c8973c2fb341f49a9171838251311&q=Nagpur&days=7&aqi=yes&alerts=no
