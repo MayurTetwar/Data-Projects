@@ -25,8 +25,7 @@ The goal of the report is to help stakeholders quickly understand business growt
 
 ## 🖼️ **Dashboard Preview**
 
-> *(You can add your screenshot here)*  
-![Dashboard Screenshot](./icons/awesome%20chocolates%20logo.png)
+![Dashboard Screenshot](https://github.com/MayurTetwar/Data-Projects/blob/fbcad2888cbb3490657192f4fcfb2980d5ed2e66/Chocolate%20Dashboard/DashBoard%20Image.png)
 
 ---
 
