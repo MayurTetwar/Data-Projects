@@ -1,0 +1,11 @@
+Total Sales(Revenue)
+Total Boxes
+Total Shipments
+Total Costs
+Total Profit
+Profit %
+LBS Count
+LBS %
+
+Mom
+Yoy
