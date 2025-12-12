@@ -1,88 +1,50 @@
-📊 Data Analytics Projects Repository
+# 📊 Data Projects  
+A collection of my Data Analytics, Data Visualization, and Python-based analysis projects.  
+This repository showcases end-to-end data workflows including cleaning, modeling, dashboards, and insights.
 
-A collection of my Data Analytics, Power BI, and Python-based analysis projects.
-This repository showcases my hands-on work with real-world datasets, business dashboards, and end-to-end analytical workflows.
+---
 
-📁 Projects Included
-1️⃣ Chocolate Sales Dashboard
+## 🚀 **About the Repository**
+This repo contains multiple data analytics projects that I created while learning Power BI, Python, and Excel.  
+Each project includes:
+- 📁 Raw & cleaned datasets  
+- 🧮 Analysis scripts or formulas  
+- 📊 Dashboards & visualizations  
+- 📝 Insights and summary reports  
 
-Built in Power BI
+---
 
-Complete sales analysis
+## 📂 **Project List**
 
-KPIs: Total Sales, Boxes Sold, Profit %, Cost per Box
+### 1️⃣ **Chocolate Sales Dashboard (Power BI)**
+### 2️⃣ **Weather Forecasting Project (Power BI)**
+### 3️⃣ **Pokémon Dataset Analysis (Python + Pandas)**
 
-Custom icons & visuals
+---
 
-Measures written using DAX
+## 🧰 **Technologies Used**
+- **Power BI**
+- **Python (Pandas, NumPy, Matplotlib, Seaborn)**
+- **Excel**
+- **Git & GitHub**
+- **APIs**
 
-2️⃣ Pokémon Dataset Analysis
+---
 
-Python-based data analysis
+## 🎯 **My Learning Goals**
+- Become a strong **Data Analyst** for placements  
+- Build end-to-end dashboards  
+- Improve storytelling through data  
+- Work on Machine Learning projects later  
 
-Data cleaning, EDA, visualization
+---
 
-Insights on Pokémon strengths, types, and stats
+## 📫 **Contact**
+If you want to connect or explore my work:
 
-Jupyter Notebook included
+- **GitHub:** https://github.com/MayurTetwar  
+- **Email:** *mayurtewtar86@gmail.com*  
 
-3️⃣ Weather Forecasting (API Based)
+---
 
-Weather data collected using API
-
-JSON data parsing
-
-Temperature & humidity insights
-
-(API file removed for safety)
-
-🛠️ Tech Stack
-
-Power BI
-
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-DAX
-
-Excel
-
-API Integration
-
-Git & GitHub
-
-📌 Goals of This Repository
-
-Build strong data analytics portfolio
-
-Practice real business dashboards
-
-Share end-to-end analysis workflows
-
-Improve skills in DAX, ETL, visualizations & storytelling
-
-📷 Project Screenshots
-
-(Add images later if you want — dashboards, charts, insights)
-
-🚀 How to Use
-Clone the repository:
-git clone https://github.com/MayurTetwar/Data-Projects.git
-
-
-Open:
-
-.pbix files → in Power BI Desktop
-
-.ipynb files → in Jupyter Notebook / VS Code
-
-.xlsx files → in Excel
-
-✨ Author
-
-Mayur Tatwar
-Data Analytics | Power BI | SQL | Python
-Building skills step-by-step 🚀
-
-⭐ If you like this repo
-
-Consider giving it a star ⭐ on GitHub!
+⭐ *Feel free to explore the projects and give suggestions!*  
