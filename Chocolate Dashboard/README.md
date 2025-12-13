@@ -28,9 +28,7 @@ The goal of the report is to help stakeholders quickly understand business growt
 To See Dynamic Dashboard :- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZmZiN2I5MTYtZWJhNS00YWM4LTkxMjAtNGE2NjdkYTIzODg0IiwidCI6ImJhNGRhNDJmLWI4M2ItNGNiNy1hZDM2LTAxNzJkNzZhNzBhNyJ9)
 
 Sample Image :- 
-![Dashboard Screenshot](
-
-)
+![Dashboard Screenshot](https://github.com/MayurTetwar/Data-Projects/blob/1d23041dff04e9bbd2c213247bef4065c06e0b70/Chocolate%20Dashboard/Dashboard%20Image.png)
 
 ---
 
